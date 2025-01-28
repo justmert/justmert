@@ -1,10 +1,10 @@
 # 🏆 Grant Recognition
 
-_Proud recipient of grants from leading Web3 protocols:_
+Proud recipient of grants from leading Web3 protocols:
 
 <table>
 <tr>
-<td align="center" width="33%" height="130">
+<td align="center" width="33%" height="120">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/be3a1248-1c45-415d-893d-339e3ff77e79">
 <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3f0c762a-77d3-4d8e-a1be-1919c1302a1f">
@@ -28,7 +28,7 @@ _Proud recipient of grants from leading Web3 protocols:_
 </tr>
 
 <tr>
-<td align="center" height="130">
+<td align="center" height="120">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/cf34bef2-e975-4190-9410-f18a1596da9a">
 <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bdad0729-5987-4d19-94d9-b311333cd300">
@@ -52,7 +52,7 @@ _Proud recipient of grants from leading Web3 protocols:_
 </tr>
 
 <tr>
-<td align="center" height="130">
+<td align="center" height="120">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://bafybeiaqdbd5zbl55x5vjmkwpjhqapt3ks3q4ykaclqkajhsdwyzlbz3g4.ipfs.w3s.link/Filecoin-logo-blue-white.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://bafybeihuk3hsy6d43dn36tqnvf6tvzleiijd5idbf2q7maw3nshnfm6wiu.ipfs.w3s.link/filecoin-logo-black-type.svg">
@@ -76,7 +76,7 @@ _Proud recipient of grants from leading Web3 protocols:_
 </tr>
 
 <tr>
-<td align="center" height="130">
+<td align="center" height="120">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/807e5c57-62a4-4771-a015-45041b17e214">
 <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4a32045e-5c56-451b-aeb7-2c57965043e3">
