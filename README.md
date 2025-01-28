@@ -78,9 +78,9 @@ Proud recipient of grants from leading Web3 protocols:
 <tr>
 <td align="center" height="120">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/807e5c57-62a4-4771-a015-45041b17e214">
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4a32045e-5c56-451b-aeb7-2c57965043e3">
-<img alt="W3F Logo" src="https://github.com/user-attachments/assets/807e5c57-62a4-4771-a015-45041b17e214" width="400px">
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/cc0aa246-58f2-4ed5-9168-6d8b59153aa5">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/50199d43-3a3b-473d-95cb-f4a4accb3e02">
+<img alt="W3F Logo" src="https://github.com/user-attachments/assets/807e5c57-62a4-4771-a015-45041b17e214" width="170px">
 </picture>
 </td>
 <td align="center">
