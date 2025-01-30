@@ -22,7 +22,7 @@ Proud recipient of grants from leading Web3 protocols:
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a56aa4ba-b14e-4e25-9f20-1c32e3d51413">
 <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6ce9f2a8-99ee-41e9-ae45-5da7d9c12960">
-<img alt="Starknet Logo" src="https://github.com/user-attachments/assets/a56aa4ba-b14e-4e25-9f20-1c32e3d51413" width="200px">
+<img alt="Starknet Logo" src="https://github.com/user-attachments/assets/a56aa4ba-b14e-4e25-9f20-1c32e3d51413" width="190px">
 </picture>
 </td>
 </tr>
@@ -63,14 +63,14 @@ Proud recipient of grants from leading Web3 protocols:
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/5296add0-f2f4-4bd0-b72d-4f2c5de4a9a9">
 <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f5108554-f5e7-4257-a589-29e9aac2160d">
-<img alt="Compound Grants Logo" src="https://github.com/user-attachments/assets/5296add0-f2f4-4bd0-b72d-4f2c5de4a9a9" width="170px">
+<img alt="Compound Grants Logo" src="https://github.com/user-attachments/assets/5296add0-f2f4-4bd0-b72d-4f2c5de4a9a9" width="160px">
 </picture>
 </td>
 <td align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1e697033-f512-4515-bb3d-428880a1b897">
 <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/821002af-1a5f-4148-b954-fdd500c2202d">
-<img alt="Solana Logo" src="https://github.com/user-attachments/assets/1e697033-f512-4515-bb3d-428880a1b897" width="190px">
+<img alt="Solana Logo" src="https://github.com/user-attachments/assets/1e697033-f512-4515-bb3d-428880a1b897" width="175px">
 </picture>
 </td>
 </tr>
@@ -87,7 +87,7 @@ Proud recipient of grants from leading Web3 protocols:
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c11263c2-7c86-408d-a593-10faa6ab08d8">
 <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f762f435-bbe5-4d28-ad72-d5038503165e">
-<img alt="Aave Logo" src="https://github.com/user-attachments/assets/c11263c2-7c86-408d-a593-10faa6ab08d8" width="120px">
+<img alt="Aave Logo" src="https://github.com/user-attachments/assets/c11263c2-7c86-408d-a593-10faa6ab08d8" width="105px">
 </picture>
 </td>
 <td></td>
