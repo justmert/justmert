@@ -18,13 +18,14 @@ Proud recipient of grants from leading Web3 protocols:
 <img alt="Sia Logo" src="https://github.com/user-attachments/assets/8286299f-4b9f-45fc-a4db-9c6a857ff5a7" width="68px">
 </picture>
 </td>
-<td align="center" width="33%">
+<td align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a56aa4ba-b14e-4e25-9f20-1c32e3d51413">
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6ce9f2a8-99ee-41e9-ae45-5da7d9c12960">
-<img alt="Starknet Logo" src="https://github.com/user-attachments/assets/a56aa4ba-b14e-4e25-9f20-1c32e3d51413" width="190px">
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c11263c2-7c86-408d-a593-10faa6ab08d8">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f762f435-bbe5-4d28-ad72-d5038503165e">
+<img alt="Aave Logo" src="https://github.com/user-attachments/assets/c11263c2-7c86-408d-a593-10faa6ab08d8" width="105px">
 </picture>
 </td>
+
 </tr>
 
 <tr>
@@ -83,13 +84,7 @@ Proud recipient of grants from leading Web3 protocols:
 <img alt="W3F Logo" src="https://github.com/user-attachments/assets/807e5c57-62a4-4771-a015-45041b17e214" width="170px">
 </picture>
 </td>
-<td align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c11263c2-7c86-408d-a593-10faa6ab08d8">
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f762f435-bbe5-4d28-ad72-d5038503165e">
-<img alt="Aave Logo" src="https://github.com/user-attachments/assets/c11263c2-7c86-408d-a593-10faa6ab08d8" width="105px">
-</picture>
-</td>
+<td></td>
 <td></td>
 </tr>
 </table>
